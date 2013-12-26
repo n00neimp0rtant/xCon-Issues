@@ -1,3 +1,5 @@
+# NO iOS 7 SUPPORT YET! MOBILE SUBSTRATE AND EVASI0N7 ARE MISSING NECESSARY CRITICAL COMPONENTS TO GET XCON WORKING ON iOS 7
+
 Before opening an issue PLEASE search the open issues to make sure there is already a thread going on it.
 
 Please STOP opening new tickets. Refer to the following issues.
