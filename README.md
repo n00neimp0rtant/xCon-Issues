@@ -19,4 +19,4 @@ Beta 2 - http://goo.gl/02uRP - BROKEN <br />
 Beta 3 - http://goo.gl/apldl <br />
 Beta 4 - http://goo.gl/7uC3Z <br />
 Beta 5 - http://goo.gl/QtW2Gn <br />
-Beta 6 - http://goo.gl/NF8s2V - iOS7 - No 5S/5C/iPad Air Yet <br />
+Beta 6 - http://goo.gl/NF8s2V - iOS7 - No arm64 devices at this time <br />
