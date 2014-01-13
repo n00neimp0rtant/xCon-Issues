@@ -15,13 +15,8 @@ Previous beta versions for V38 can be found on the changelong
 
 V39  - https://github.com/n00neimp0rtant/xCon-Issues/issues/239
 Beta 1 - http://goo.gl/iSfVF - BROKEN
-
 Beta 2 - http://goo.gl/02uRP - BROKEN
-
 Beta 3 - http://goo.gl/apldl
-
 Beta 4 - http://goo.gl/7uC3Z
-
 Beta 5 - http://goo.gl/QtW2Gn
-
 Beta 6 - http://goo.gl/NF8s2V - iOS7 - No 5S/5C/iPad Air Yet
