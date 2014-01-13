@@ -1,4 +1,4 @@
-# Starting with V39 Beta 6, iOS 7 is in it's initial testing phase. Currently it does NOT support the 5S/5C/iPad air at this time. Support for these devices will be coming. 
+# Starting with V39 Beta 6, iOS 7 is in it's initial testing phase. Currently it DOES NOT support arm64 devices at this time. Support for these devices will be coming. 
 
 Before opening an issue PLEASE search the open issues to make sure there is already a thread going on it.
 
