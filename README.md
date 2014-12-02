@@ -1,4 +1,4 @@
-# Starting with V40 Beta 1, iOS 8 and arm64 is now supported. Be aware there are still issues to iron out in iOS 8
+# Starting with V39 Beta 6, iOS 7 is in it's initial testing phase. Currently it DOES NOT support arm64 devices at this time. Support for these devices will be coming. 
 
 Before opening an issue PLEASE search the open issues to make sure there is already a thread going on it.
 
@@ -21,6 +21,3 @@ Beta 4 - http://goo.gl/7uC3Z <br />
 Beta 5 - http://goo.gl/QtW2Gn <br />
 Beta 6 - http://goo.gl/NF8s2V - iOS7 - No arm64 devices at this time <br />
 Beta 7 - http://goo.gl/SM14GX <br />
-
-V40 - 
-Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
