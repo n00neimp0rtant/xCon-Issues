@@ -22,6 +22,6 @@ Beta 5 - http://goo.gl/QtW2Gn <br />
 Beta 6 - http://goo.gl/NF8s2V - iOS7 - No arm64 devices at this time <br />
 Beta 7 - http://goo.gl/SM14GX <br />
 
-V40 - 
+V40 - <br />
 Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
-Beta 2 http://goo.gl/NRxRLB - Fix to not inject into Apple Stock Apps
+Beta 2 http://goo.gl/NRxRLB - Fix to not inject into Apple Stock Apps <br />
