@@ -25,3 +25,4 @@ Beta 7 - http://goo.gl/SM14GX <br />
 V40 - <br />
 Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
 Beta 2 http://goo.gl/NRxRLB - Fix to not inject into Apple Stock Apps <br />
+Beta 3 http://goo.gl/8IE5Lh - Fix calls to open when there are more than 3 parameters. Fixes some apps crashing<br />
