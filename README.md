@@ -26,4 +26,4 @@ V40 - <br />
 Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
 Beta 2 http://goo.gl/NRxRLB - Fix to not inject into Apple Stock Apps <br />
 Beta 3 http://goo.gl/8IE5Lh - Fix calls to open when there are more than 3 parameters. Fixes some apps crashing<br />
-Beta 4 http://goo.gl/2YJ2Xh - Removed open check with Words with Friends and Albertson App. More research needed to find out why hooking into the open call in these apps causes a crash <br />
+Beta 4 http://goo.gl/2YJ2Xh - Removed open check with Hanging with Friends and Albertson App. More research needed to find out why hooking into the open call in these apps causes a crash <br />
