@@ -9,10 +9,6 @@ SkyGo - https://github.com/n00neimp0rtant/xCon-Issues/issues/55 <br />
 
 Also please check the ChangeLog listed below to see what we are currently working on.
 
-V38 - https://github.com/n00neimp0rtant/xCon-Issues/wiki/V38-ChangeLog <br />
-Final V38 Build - http://goo.gl/UPDBx <br />
-Previous beta versions for V38 can be found on the changelong <br />
-
 V40 - <br />
 Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
 Beta 2 http://goo.gl/NRxRLB - Fix to not inject into Apple Stock Apps <br />
