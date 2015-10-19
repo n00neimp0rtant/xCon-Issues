@@ -1,5 +1,7 @@
 # Starting with V40 Beta 1, iOS 8 and arm64 is now supported. Be aware there are still issues to iron out in iOS 8
 
+iOS 9 will be supported in the coming weeks.
+
 Before opening an issue PLEASE search the open issues to make sure there is already a thread going on it.
 
 Please STOP opening new tickets. Refer to the following issues.
