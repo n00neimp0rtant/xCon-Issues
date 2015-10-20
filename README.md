@@ -19,4 +19,4 @@ Beta 4 http://goo.gl/2YJ2Xh - BROKEN - Removed open check with Hanging with Frie
 <br />
 Beta 5 http://goo.gl/MnvbDV - Hopefully finally fixed the open api to prevent various apps from crashing. <br />
 Beta 6 https://goo.gl/4wuK4G - Fix for various apps crashing. Fix for apps that uses sparkinspector.com <br />
-Beta 7 https://goo.gl/jFYBeX - UNTESTED!! - Fix for iOS 9 Support
+
