@@ -1,3 +1,7 @@
+# READ READ READ READ
+# It has been brought to my attention that there is a "V41" floating around. There is no V41. DO NOT TRUST IT unless you either get it from here or if it's from the offical repo.
+
+
 # Starting with V40 Beta 1, iOS 8 and arm64 is now supported. Be aware there are still issues to iron out in iOS 8
 
 iOS 9 will be supported in the coming weeks.
