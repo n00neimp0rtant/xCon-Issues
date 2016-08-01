@@ -11,8 +11,8 @@ SkyGo - https://github.com/n00neimp0rtant/xCon-Issues/issues/55 <br />
 Also please check the ChangeLog listed below to see what we are currently working on.
 
 V40 - https://github.com/n00neimp0rtant/xCon-Issues/wiki/V40-Change-Log<br />
-
-
+<br />
+<br />
 
 V42 - <br />
 Beta 1 https://db.tt/oRL6PrFI - iOS9 Support. By Request Readded Good 1.9.X Support back in.
