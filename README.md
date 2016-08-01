@@ -1,10 +1,5 @@
 # READ READ READ READ
-# It has been brought to my attention that there is a "V41" floating around. There is no V41. DO NOT TRUST IT unless you either get it from here or if it's from the offical repo.
-
-
-# Starting with V40 Beta 1, iOS 8 and arm64 is now supported. Be aware there are still issues to iron out in iOS 8
-
-iOS 9 will be supported in the coming weeks.
+# It has been brought to my attention that there is a "V41" floating around. There is no V41. DO NOT TRUST IT unless you either get it from here or if it's from the offical repo. Because of this I have skipped the Versioning number to V42 for the iOS 9 release.
 
 Before opening an issue PLEASE search the open issues to make sure there is already a thread going on it.
 
@@ -14,6 +9,9 @@ Good For Enterprise - https://github.com/n00neimp0rtant/xCon-Issues/issues/32 <b
 SkyGo - https://github.com/n00neimp0rtant/xCon-Issues/issues/55 <br />
 
 Also please check the ChangeLog listed below to see what we are currently working on.
+
+V42 - <br />
+Beta 1 https://db.tt/oRL6PrFI - iOS9 Support. By Request Readded Good 1.9.X Support back in.
 
 V40 - <br />
 Beta 1 http://goo.gl/qMJGv9 - iOS8 and arm64 Support <br />
