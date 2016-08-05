@@ -1,7 +1,7 @@
 # READ READ READ READ
 
 # Beta Repo http://xcon.crazy.net
-# For Previous Versions You can download them at https://goo.gl/UKWXQr (Note I Haven't uploaded them all just yet)
+# For Previous Versions You can download them at https://goo.gl/UKWXQr
 
 # It has been brought to my attention that there is a "V41" floating around. There is no V41. DO NOT TRUST IT unless you either get it from here or if it's from the offical repo. Because of this I have skipped the Versioning number to V42 for the iOS 9 release.
 
